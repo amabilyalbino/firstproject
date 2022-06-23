@@ -73,9 +73,9 @@
 
 
 
-// const amabs = "legal" // maczinho, guarda na tua memoria uma constante de nome amabs que deve ter o valor de legal
+// const amabs = "legal" //  (guarda na tua memoria uma constante de nome amabs que deve ter o valor de legal)
 
-// maczinho, guarda na tua memoria uma funçao. O nome dela vai ser funcaozinha, e ela vai ter dois parametros.
+//  guarda na tua memoria uma funçao. O nome dela vai ser funcaozinha, e ela vai ter dois parametros.
 // Quando eu usar ela, eu quero que tu imprimia para o console a soma dos dois parametros.
 
 
